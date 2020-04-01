@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Katelyn Wyatt # your name (or website title) here
+logo: "/images/Profile-Circle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Computer Science Undergraduate 
   <br><br>
-  Second description 
+  University of Notre Dame 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/katelyn-wyatt-b6385316b/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
